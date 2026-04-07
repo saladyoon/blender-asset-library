@@ -1,11 +1,12 @@
-# Backup files
+# Text editor files
 *~
 *.swp
 *.kate-swp
+.editorconfig
 
 # Blender versions
 *.blend?
 *.blend??
 
-# Temporary folder for asset previews
-share/thumbs
+# KDE Directory Icon
+.directory
