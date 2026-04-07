@@ -19,6 +19,7 @@ Currently, it includes the following unique 42 assets:
 - 3 Worlds
 - 3 Scenes
 - 2 Lights
+- 2 Objects
 
 ## License
 
