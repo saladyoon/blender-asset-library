@@ -6,6 +6,11 @@
 
 VERSION 1
 
+677d1891-fbc7-4862-8ee3-8e8e98aa8a0c:Color:Color
 f6d1275b-1020-493c-8a2b-5aec5f00e66b:Input:Input
+686ef1a9-3979-4247-8fa9-df387e2c9c29:Preview:Preview
+428be15b-d421-4729-8feb-584d696bbe31:Primitive:Primitive
+c49d5c62-4879-4cd2-a91c-93a6e8b7fb18:Shader:Shader
 63df82f3-3d5c-4dc3-ba19-6fa91b20c1a3:Utilities:Utilities
+952eeec7-89ce-4a45-9620-9d043366cf5f:Utilities/Math:Utilities-Math
 e52a04c4-bb63-4e0e-9a14-b73b7541c07c:Utilities/Vector:Utilities-Vector
