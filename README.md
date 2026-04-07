@@ -11,9 +11,9 @@ This is my public asset library for Blender 5.1.0.
 
 ## Contents
 
-Currently, it includes the following unique 42 assets:
+Currently, it includes the following unique 43 assets:
 
-- 14 Materials with 9 Grease Pencil Materials
+- 15 Materials with 9 Grease Pencil Materials
 - 5 Props
 - 4 Node Groups
 - 3 Worlds

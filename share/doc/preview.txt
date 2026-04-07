@@ -1,7 +1,7 @@
 This is a Preview project file of Salad Moon's Public Blender Asset Library.
 
 Currently, it includes the following 38 assets:
-    - 14 Materials with 9 Grease Pencil Materials;
+    - 15 Materials with 9 Grease Pencil Materials;
     - 5 Props;
     - 3 Worlds;
     - 3 Scenes;
