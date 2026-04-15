@@ -1,0 +1,5 @@
+This is a Common Procedural project file of Salad Moon's Public Blender Library.
+
+Currently, it includes the following 4 assets:
+    - 3 Node Groups;
+    - 2 Objects.
