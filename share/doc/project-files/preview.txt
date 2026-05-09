@@ -1,10 +1,15 @@
 This is a Preview project file of Salad Moon's Public Blender Library. It
-provides a minimal set of assets for generating preview images.
+provides a minimal set of assets for generating preview images and some
+essential primitive materials for various props.
 
-Currently, this file has the following 40 assets:
-    - 15 Materials with 9 Grease Pencil Materials;
-    - 9 Collections:
-        - 5 Props,
+It's a necessary part of the library, but because of that, it's not
+allowed to include anything that could otherwise go against its limited
+role.
+
+Currently, this file has the following 44 assets:
+    - 16 Materials with 9 Grease Pencil Materials;
+    - 10 Collections:
+        - 6 Props,
         - 4 Lights;
-    - 3 Worlds;
-    - 4 Scenes.
+    - 6 Scenes;
+    - 3 Worlds.

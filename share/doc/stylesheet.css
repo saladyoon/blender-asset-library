@@ -1,0 +1,45 @@
+/*! stylesheet.css | CC0 | github.com/saladyoon/blender-library */
+
+@import url("normalize.css");
+@charset "utf-8";
+@namespace "http://www.w3.org/1999/xhtml";
+@namespace epub "http://www.idpf.org/2007/ops";
+
+body
+{
+	margin: auto;
+	padding: 4em;
+	min-width: 40ch;
+	max-width: 80ch;
+	line-height: 1.5;
+	font-family: "Segoe UI", "Helvetica", "Arial", sans-serif;
+	font-size: 110%;
+}
+
+section
+{
+	text-align: justify;
+	hyphens: auto;
+	break-after: page;
+}
+
+h2
+{
+	font-size: 1.5em;
+}
+
+dt
+{
+	font-weight: bold;
+}
+
+.preview-image
+{
+	float: right;
+	clear: right;
+}
+
+.preview-image img
+{
+	height: 192px;
+}

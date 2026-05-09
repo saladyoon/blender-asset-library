@@ -1,0 +1,53 @@
+<!DOCTYPE HTML>
+<!-- simple-mirror.html | CC0 | github.com/saladyoon/blender-library -->
+<html lang="en">
+  <head>
+    <title>Simple Mirror Material</title>
+  </head>
+  <body>
+    <link rel="stylesheet" href="../stylesheet.css"/>
+    <h1>Simple Mirror Material</h1>
+    <figure class="preview-image">
+      <img alt="Simple Mirror preview image."
+        src="../preview/preview-material-02.png"/>
+    </figure>
+    <p>
+      The <i>Simple Mirror</i>
+      is a solid conductive material, used for props with metallic paint. It
+      applies a fixed roughness value that mimics polished alloys and metals.
+    </p>
+    <section>
+      <h2 id="inputs">Inputs</h2>
+      <dl>
+        <dt>Object Info 🢒 Color and Alpha</dt>
+        <dd>
+          <p>
+            Shader's base color and transparency are influenced by object's
+            Viewport Display Color.
+          </p>
+        </dd>
+      </dl>
+    </section>
+    <section>
+      <h2 id="outputs">Outputs</h2>
+      <dl>
+        <dt>Cycles and EEVEE BSDF</dt>
+        <dd>
+          <p>
+            Streamlined material output that favours speed over quality.
+          </p>
+        </dd>
+        <dt>Fallback Principled BSDF</dt>
+        <dd>
+          <p>
+            For different render engines and GLTF export.
+          </p>
+          <p>
+            Unfortunately, Object Info is not implemented in Hydra Storm,
+            resulting in a completely transparent material.
+          </p>
+        </dd>
+      </dl>
+    </section>
+  </body>
+</html>

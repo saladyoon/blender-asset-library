@@ -1,0 +1,19 @@
+The Checker Backdrop is a simple material in black and white. It's supposed to
+be used for preview images and other primitives.
+
+Inputs
+
+- Object Info 🢒 Color and Alpha
+    Shader's base color and transparency are influenced by object's Viewport
+    Display Color.
+
+Outputs
+
+- Cycles and EEVEE BSDF
+    Streamlined material output that favours speed over quality.
+
+- Fallback Principled BSDF
+    For different render engines and GLTF export.
+
+    Unfortunately, Object Info is not implemented in Hydra Storm, resulting in
+    a completely transparent material.

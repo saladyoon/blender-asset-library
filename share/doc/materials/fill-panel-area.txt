@@ -1,0 +1,13 @@
+This is an area light for "Fill Panel" collection. It's supposed to be used for
+preview images.
+
+Inputs
+
+- Object Info 🢒 Color and Alpha
+    Shader's base color and transparency are influenced by object's Viewport
+    Display Color.
+
+Outputs
+
+- Cycles Shader
+    Very simple material output.

@@ -1,0 +1,20 @@
+The Simple Alloy is a solid conductive material, used for props with metallic
+paint. It applies a fixed roughness value that mimics polished alloys and
+metals.
+
+Inputs
+
+- Object Info 🢒 Color and Alpha
+    Shader's base color and transparency are influenced by object's Viewport
+    Display Color.
+
+Outputs
+
+- Cycles and EEVEE BSDF
+    Streamlined material output that favours speed over quality.
+
+- Fallback Principled BSDF
+    For different render engines and GLTF export.
+
+    Unfortunately, Object Info is not implemented in Hydra Storm, resulting in
+    a completely transparent material.

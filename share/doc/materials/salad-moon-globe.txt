@@ -1,0 +1,13 @@
+This is an emissive globe made out of "canvas" as a part of "Salad Moon Globe"
+collection.
+
+Outputs
+
+- Cycles and EEVEE BSDF
+    Streamlined material output that favours quality over speed.
+
+- Fallback Principled BSDF
+    For different render engines, GLTF export and textured preview.
+
+    Unfortunately, Object Info is not implemented in Hydra Storm, resulting in
+    a completely transparent material.

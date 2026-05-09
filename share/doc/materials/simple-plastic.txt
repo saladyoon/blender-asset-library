@@ -1,0 +1,13 @@
+The Simple Plastic is a transmissive material, used for simple props. It applies
+volumetrics to accurately mimic the complexity of plastic.
+
+Inputs
+
+- Object Info 🢒 Color and Alpha
+    Shader's base color and transparency are influenced by object's Viewport
+    Display Color.
+
+Outputs
+
+- Cycles and EEVEE BSDF
+    Streamlined material output that favours quality over speed.

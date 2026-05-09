@@ -1,0 +1,13 @@
+This is an area light for "Fill Panel" collection that mimics an array of
+bulbs. It's supposed to be used for preview images.
+
+Inputs
+
+- Object Info 🢒 Color and Alpha
+    Shader's base color and transparency are influenced by object's Viewport
+    Display Color.
+
+Outputs
+
+- Cycles Shader
+    Streamlined material output that favours quality over speed.

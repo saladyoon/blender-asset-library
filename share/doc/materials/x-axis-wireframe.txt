@@ -1,0 +1,12 @@
+The X Axis Wireframe is a simple material in red color. It's supposed to be
+used for preview images and other primitives.
+
+Its colors are based on Cattpuccin Machiatto palette.
+
+Outputs
+
+- Cycles and EEVEE BSDF
+    Streamlined material output that favours speed over quality.
+
+- Fallback Principled BSDF
+    For different render engines, GLTF export and textured preview.

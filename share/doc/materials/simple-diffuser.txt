@@ -1,0 +1,14 @@
+The Simple Diffuser is a transmissive material, used for simple props that
+provide light. It applies a fixed roughness value that mimics light diffusers,
+which are commonly seen in lighting equipment.
+
+Inputs
+
+- Object Info 🢒 Color and Alpha
+    Shader's base color and transparency are influenced by object's Viewport
+    Display Color.
+
+Outputs
+
+- Cycles and EEVEE BSDF
+    Streamlined material output that favours quality over speed.

@@ -1,0 +1,19 @@
+The Simple Glass is a transmissive material, used for simple props. It applies
+a fixed roughness value that mimics perfectly sharp glass.
+
+Inputs
+
+- Object Info 🢒 Color and Alpha
+    Shader's base color and transparency are influenced by object's Viewport
+    Display Color.
+
+Outputs
+
+- Cycles and EEVEE BSDF
+    Streamlined material output that favours speed over quality.
+
+- Fallback Principled BSDF
+    For different render engines and GLTF export.
+
+    Unfortunately, Object Info is not implemented in Hydra Storm, resulting in
+    a completely transparent material.

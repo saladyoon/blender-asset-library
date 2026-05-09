@@ -1,0 +1,7 @@
+A cozy room for taking professional-looking renders. At 20 ℃ (68 ℉), nothing
+could go wrong.
+
+Outputs
+
+- Universal Shader
+    Might not work in all rendering engines.
